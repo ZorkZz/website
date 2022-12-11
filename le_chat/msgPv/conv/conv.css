@@ -1,0 +1,49 @@
+@media only screen and (max-width: 600px){
+
+    .container{
+        background-color: #363A43;
+        width: 80%;
+        border-radius: 10px;
+    }
+}
+
+body{
+    background-color: #282c34;
+    color: #fff;
+}
+
+.title{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.container {
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: #363A43;
+    width: 60%;
+    height: 500px;
+    overflow-y: scroll; 
+}
+
+.usr1{
+    color: purple;
+}
+.usr2{
+    color: pink;
+}
+
+.txt{
+    display: flex;
+    flex-direction: row;
+}
+
+button{
+    margin-left: 10px;
+}
+
+.container-mess{
+    width: 60%;
+    margin-left: 20%;
+}
